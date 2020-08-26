@@ -1661,7 +1661,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Some text Some Text Some TExt Some TExt Some Text Some Text Some Text. 
-    Yeah this is some text.
+    Yeah this is some text.  And this some text written on the Mac.
 --- !u!222 &1586710061
 CanvasRenderer:
   m_ObjectHideFlags: 0

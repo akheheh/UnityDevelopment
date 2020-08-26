@@ -33,5 +33,9 @@ public class AdventureGameScript : MonoBehaviour
         }
 
         TextComponent.text = state.GetStateStory();
+
+        if(Input.GetKeyDown(KeyCode.Escape)) {
+            Application.Quit();
+        }
     }
 }

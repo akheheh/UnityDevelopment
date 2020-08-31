@@ -10,9 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 74b7c277727f748e0a1812f09c899131, type: 3}
-  m_Name: Room1
+  m_Name: IntroductionA0
   m_EditorClassIdentifier: 
-  StoryText: This is room 1.
-  NextStates:
-  - {fileID: 11400000, guid: 51e54300dae5a49c6abf11967b22b6f1, type: 2}
-  - {fileID: 11400000, guid: 1b187aba8d4bd43b692aea5c9f01035f, type: 2}
+  StoryText: 'Welcome to Enigmania.
+
+
+    Your mission is to figure out how you got
+    here, and more importantly, how you can get out.  You will be prompted with different
+    options to choose from, which will determine if you can get out.  Have fun!'
+  NextStates: []

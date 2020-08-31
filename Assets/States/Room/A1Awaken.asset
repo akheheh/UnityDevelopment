@@ -10,9 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 74b7c277727f748e0a1812f09c899131, type: 3}
-  m_Name: Room2
+  m_Name: A1Awaken
   m_EditorClassIdentifier: 
-  StoryText: And this is room 2.
+  StoryText: "What\u2026where am I?\n\nThe room is unassuming.  I am sitting on a
+    bed.  \n\nTo my right, I see the nightstand.  There is nothing there but a small
+    lamp and a notepad.  \n\nTo my left, I see a drawer cabinet, its top drawer slightly
+    ajar.  I wonder what's in it....\n"
   NextStates:
   - {fileID: 11400000, guid: a0076749c460e455fb209f9ca67597b4, type: 2}
-  - {fileID: 11400000, guid: 1b187aba8d4bd43b692aea5c9f01035f, type: 2}
+  - {fileID: 11400000, guid: 51e54300dae5a49c6abf11967b22b6f1, type: 2}
